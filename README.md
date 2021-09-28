@@ -26,9 +26,9 @@
 - TBD
 
 ## Resource
-[UO Microeconomics Group](https://blogs.uoregon.edu/microgroup/about/)
-[Brown bag link](https://lists.uoregon.edu/mailman/listinfo/econ_micro_brownbag)
-[]
+- [UO Microeconomics Group](https://blogs.uoregon.edu/microgroup/about/)
+- [Brown bag link](https://lists.uoregon.edu/mailman/listinfo/econ_micro_brownbag)
+
 
 ## Meeting Schedule
 ### Week 1 (October 1) 
