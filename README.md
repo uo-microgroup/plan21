@@ -1,7 +1,7 @@
 # Microeconomics Group Fall 2021
 
 ## About 
-> ### Micro Group is an informal meeting of graduate students and faculty interested in applied microeconomics research.  The meetings are every Friday at ** during the school year in PLC **.  A typical meeting involves a graduate student or faculty presenting their research, and they are often working papers or papers in their infant stages. 
+> Micro Group is an informal meeting of graduate students and faculty interested in applied microeconomics research.  The meetings are every Friday at ** during the school year in PLC **.  A typical meeting involves a graduate student or faculty presenting their research, and they are often working papers or papers in their infant stages. 
 -- Retrieved from  https://blogs.uoregon.edu/microgroup/about/ 
 
 
