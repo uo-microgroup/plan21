@@ -7,7 +7,7 @@
 
 ## Join us! if you'd like to 
 - Discuss about research: 
-  - Share your progress (Perhaps stand-ups and stand-downs)
+  - Share your progress (Perhaps very brief stand-ups and stand-downs)
   - Give constructive feedbacks
 - Discuss interesting paper:
   - Skim the paper beforehand
@@ -33,6 +33,11 @@
 ## Meeting Schedule
 ### Week 1 (October 1) 
 Orgnizational Meeting
+- [ ] When?
+- [ ] Where? 
+- [ ] What?
+- [ ] Who? & Presentation dates
+
 ### Week 2 (October 8)
 - Presenter: Boyoon Chang
 - Topic: Research progress
