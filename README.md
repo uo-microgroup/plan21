@@ -34,15 +34,40 @@
 ### Week 1 (October 1) 
 Orgnizational Meeting
 ### Week 2 (October 8)
-
+- Presenter: Boyoon Chang
+- Topic: Research progress
 ### Week 3 (October 15)
+- Presenter:
+- Topic: 
+
 ### Week 4 (October 22)
+- Presenter:
+- Topic: 
+
 ### Week 5 (October 29)
+- Presenter:
+- Topic: 
+
 ### Week 6 (November 5)
+- Presenter:
+- Topic: 
+
 ### Week 8 (November 12)
+- Presenter:
+- Topic: 
+
 ### Week 7 (November 19)
+- Presenter:
+- Topic: 
+
 ### Week 9 (November 26)
+- Presenter:
+- Topic: 
+
 ### Week 10 (December 3)
+- Presenter:
+- Topic: 
+
 
 
 
