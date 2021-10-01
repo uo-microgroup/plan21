@@ -58,7 +58,7 @@ Orgnizational Meeting
   
 ### Week 4 (October 22)
 - Presenter: Kyle
-- Topic: 
+- Topic: "Does the salience of race mitigate gaps in disciplinary outcomes? Evidence from school fights"
 - [Week 4 presentation material](https://kyleraze.com/files/RazeWaddell_Salience-of-Race.pdf)
 
 ### Week 5 (October 29)
