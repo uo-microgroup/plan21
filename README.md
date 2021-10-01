@@ -57,9 +57,9 @@ Orgnizational Meeting
 - [Week 3 presentation material]()
   
 ### Week 4 (October 22)
-- Presenter: Kyle(?)
+- Presenter: Kyle
 - Topic: 
-- [Week 4 presentation material]()
+- [Week 4 presentation material](https://kyleraze.com/files/RazeWaddell_Salience-of-Race.pdf)
 
 ### Week 5 (October 29)
 - Presenter: Colleen
