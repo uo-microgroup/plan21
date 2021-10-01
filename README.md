@@ -20,7 +20,7 @@
   - Invite faculty 
 - Improve your presentation skills:
   - Elevator talks
-  - Interviews
+  - Interview practice
 
 ## Members
 - TBD
