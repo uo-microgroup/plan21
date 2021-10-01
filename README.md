@@ -50,10 +50,10 @@
 ## Meeting Schedule
 ### Week 1 (October 1) 
 Orgnizational Meeting
-- [ ] When?
-- [ ] Where? 
-- [ ] What?
-- [ ] Who? & Presentation dates
+- [X] When? Friday
+- [X] Where? PLC 410
+- [X] What? Any topics
+- [X] Who? & Presentation dates
 
 ### Week 2 (October 8)
 - Presenter: Boyoon
