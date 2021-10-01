@@ -57,7 +57,7 @@ Orgnizational Meeting
 - [Week 3 presentation material]()
   
 ### Week 4 (October 22)
-- Presenter: Kyle
+- Presenter: Kyle(?)
 - Topic: 
 - [Week 4 presentation material]()
 
