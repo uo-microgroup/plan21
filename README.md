@@ -39,8 +39,8 @@ Orgnizational Meeting
 - [ ] Who? & Presentation dates
 
 ### Week 2 (October 8)
-- Presenter: Boyoon Chang
-- Topic: Research progress
+- Presenter: 
+- Topic: 
 ### Week 3 (October 15)
 - Presenter:
 - Topic: 
