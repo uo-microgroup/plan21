@@ -29,7 +29,7 @@
 - 5th year: Kyle
 
 ## Join us next meeting! 
-- Andrew, Shihab, Emmett, Phil, Kyle
+- Andrew, Shihab, Emmett, Phil
 
 
 ## Resource
@@ -40,7 +40,7 @@
 ## Meeting Schedule
 ### Week 1 (October 1) 
 Orgnizational Meeting
-- [X] When? Friday
+- [X] When? Friday 12:30-13:30
 - [X] Where? PLC 410
 - [X] What? Any topics
 - [X] Who? & Presentation dates: See below
