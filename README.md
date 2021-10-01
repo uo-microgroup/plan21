@@ -23,7 +23,24 @@
   - Interview practice
 
 ## Members
-- TBD
+- Brock
+- Emily
+- Kyu
+- Micaela
+- Kevin
+- Shan
+- Tami
+- Promise
+- Colleen
+
+
+- Andrew
+- Shihab
+- Emmett
+- Phil
+
+
+- 5th year?
 
 ## Resource
 - [UO Microeconomics Group](https://blogs.uoregon.edu/microgroup/about/)
@@ -39,38 +56,37 @@ Orgnizational Meeting
 - [ ] Who? & Presentation dates
 
 ### Week 2 (October 8)
-- Presenter: 
+- Presenter: Boyoon
 - Topic: 
 ### Week 3 (October 15)
-- Presenter:
+- Presenter: Promise
 - Topic: 
 
 ### Week 4 (October 22)
-- Presenter:
+- Presenter: Tami, Kevin
 - Topic: 
 
 ### Week 5 (October 29)
-- Presenter:
+- Presenter: Colleen
 - Topic: 
 
 ### Week 6 (November 5)
-- Presenter:
+- Presenter: Brock
 - Topic: 
 
-### Week 8 (November 12)
-- Presenter:
+### Week 7 (November 12)
+- Presenter: Tami, Kyu&Micaela
 - Topic: 
 
-### Week 7 (November 19)
-- Presenter:
+### Week 8 (November 19)
+- Presenter: Shan, Micaela&Kyu
 - Topic: 
 
-### Week 9 (November 26)
-- Presenter:
-- Topic: 
+### Week 9 (November 26) Friendsgiving
+- Planner: Tami
 
 ### Week 10 (December 3)
-- Presenter:
+- Presenter: Shihab?, Emily
 - Topic: 
 
 
