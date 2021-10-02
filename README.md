@@ -52,7 +52,7 @@ Orgnizational Meeting
 
 
 ### Week 3 (October 15)
-- Presenter: Promise
+- Presenter: Promise, Sichao
 - Topic: 
 - [Week 3 presentation material]()
   
