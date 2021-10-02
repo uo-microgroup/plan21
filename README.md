@@ -85,7 +85,7 @@ Orgnizational Meeting
 - Planner: Tami
 
 ### Week 10 (December 3)
-- Presenter: Emily, Shihab? 
+- Presenter: Emily
 - Topic: 
 - [Week 10 presentation material]()
 - 🎉 Celebration to the end of the term! 🎉
