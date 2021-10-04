@@ -28,9 +28,6 @@
 - 4th year: Shan, Promise, Colleen, Kevin
 - 5th year: Kyle
 
-## Join us next meeting! 
-- Andrew, Shihab, Emmett, Phil
-
 
 ## Resource
 - [UO Microeconomics Group](https://blogs.uoregon.edu/microgroup/about/)
