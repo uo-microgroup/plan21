@@ -43,7 +43,7 @@ Orgnizational Meeting
 - [X] Who? & Presentation dates: See below
 
 ### Week 2 (October 8)
-- Presenter: Boyoon, Tami
+- Presenter: Boyoon
 - Topic: Research progress
 - [Week 2 presentation material](https://github.com/uo-microgroup/week02.git)
 
