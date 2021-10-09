@@ -49,7 +49,7 @@ Orgnizational Meeting
 
 
 ### Week 3 (October 15)
-- Presenter: Promise, Sichao
+- Presenter: Promise, Colleen
 - Topic: 
 - [Week 3 presentation material]()
   
@@ -59,7 +59,7 @@ Orgnizational Meeting
 - [Week 4 presentation material](https://kyleraze.com/files/RazeWaddell_Salience-of-Race.pdf)
 
 ### Week 5 (October 29)
-- Presenter: Colleen
+- Presenter: Sichao
 - Topic: 
 - [Week 5 presentation material]()
 
