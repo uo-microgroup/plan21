@@ -43,13 +43,13 @@ Orgnizational Meeting
 - [X] Who? & Presentation dates: See below
 
 ### Week 2 (October 8)
-- Presenter: Boyoon, Tami
+- Presenter: Boyoon
 - Topic: Research progress
 - [Week 2 presentation material](https://github.com/uo-microgroup/week02.git)
 
 
 ### Week 3 (October 15)
-- Presenter: Promise, Sichao
+- Presenter: Promise, Colleen
 - Topic: 
 - [Week 3 presentation material](https://cobriant.github.io/emacs_presentation.html)
   
@@ -59,7 +59,7 @@ Orgnizational Meeting
 - [Week 4 presentation material](https://kyleraze.com/files/RazeWaddell_Salience-of-Race.pdf)
 
 ### Week 5 (October 29)
-- Presenter: Colleen
+- Presenter: Sichao
 - Topic: 
 - [Week 5 presentation material]()
 
