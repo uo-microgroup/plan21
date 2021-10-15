@@ -51,7 +51,7 @@ Orgnizational Meeting
 ### Week 3 (October 15)
 - Presenter: Promise, Sichao
 - Topic: 
-- [Week 3 presentation material]()
+- [Week 3 presentation material](https://cobriant.github.io/emacs_presentation.html)
   
 ### Week 4 (October 22)
 - Presenter: Kyle
