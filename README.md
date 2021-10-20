@@ -54,8 +54,8 @@ Orgnizational Meeting
 - [Week 3 presentation material](https://cobriant.github.io/emacs_presentation.html)
   
 ### Week 4 (October 22)
-- Presenter: 
-- Topic: 
+- Presenter: Philip
+- Topic: Research progress
 - [Week 4 presentation material]()
 
 ### Week 5 (October 29)
