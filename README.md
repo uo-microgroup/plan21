@@ -54,9 +54,9 @@ Orgnizational Meeting
 - [Week 3 presentation material](https://cobriant.github.io/emacs_presentation.html)
   
 ### Week 4 (October 22)
-- Presenter: Kyle
-- Topic: "Does the salience of race mitigate gaps in disciplinary outcomes? Evidence from school fights"
-- [Week 4 presentation material](https://kyleraze.com/files/RazeWaddell_Salience-of-Race.pdf)
+- Presenter: 
+- Topic: 
+- [Week 4 presentation material]()
 
 ### Week 5 (October 29)
 - Presenter: Sichao
