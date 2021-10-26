@@ -60,7 +60,7 @@ Orgnizational Meeting
 
 ### Week 5 (October 29)
 - Presenter: Sichao
-- Topic: 
+- Topic: "Watching the Grass Grow: Does Recreational Cannabis Legalization Affect Labor Outcomes?"
 - [Week 5 presentation material]()
 
 ### Week 6 (November 5)
