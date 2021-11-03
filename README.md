@@ -64,13 +64,13 @@ Orgnizational Meeting
 - [Week 5 presentation material]()
 
 ### Week 6 (November 5)
-- Presenter: Brock, Kevin(?)
+- Presenter: 
 - Topic: 
 - [Week 6 presentation material]()
 
 ### Week 7 (November 12)
-- Presenter: Tami, Kyu&Micaela
-- Topic: 
+- Presenter: Saurabh
+- Topic: Job market paper presentation
 - [Week 7 presentation material]()
 
 ### Week 8 (November 19)
