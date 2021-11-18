@@ -74,15 +74,15 @@ Orgnizational Meeting
 - [Week 7 presentation material]()
 
 ### Week 8 (November 19)
-- Presenter: Shan, Micaela&Kyu
+- Presenter: 
 - Topic: 
 - [Week 8 presentation material]()
 
-### Week 9 (November 26) Friendsgiving
-- Planner: Tami
+### Week 9 (November 26) Thanksgiving
+
 
 ### Week 10 (December 3)
-- Presenter: Emily
+- Presenter: Micaela? | John
 - Topic: 
 - [Week 10 presentation material]()
 - 🎉 Celebration to the end of the term! 🎉
